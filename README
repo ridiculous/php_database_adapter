@@ -1,0 +1,4 @@
+<h2>What it do? </h2>
+<p>
+Models tables in the database and dynamically creates attributes and sql based on table fields. Includes MySQL and Microsoft SQL adapters for the Db class. 
+</p>
